@@ -1,4 +1,8 @@
 img {
-    width: 300px;
-    height: 300px;
+    width: 100x;
+    height: 350px;
+}
+.sloupecek {
+    display: flex;
+    flex-wrap: wrap; 
 }
